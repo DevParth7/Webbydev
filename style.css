@@ -167,8 +167,10 @@ section .title::after{
 .home .max-width .row{
   margin-right: 0;
 }
-.home .home-content .text-1{
+.home .home-content .text-1 span{
     font-size: 27px;
+     font-weight: 600;
+    margin-left: -3px;
 }
 .home .home-content .text-2{
     font-size: 75px;
